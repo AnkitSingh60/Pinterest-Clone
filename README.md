@@ -26,8 +26,6 @@ We completed a clone of major functionalities of this website within a week.
 ### Database
 ![Screenshot (382)](https://user-images.githubusercontent.com/96105500/158130260-241d3695-39c2-4ce0-80e8-949d73d8899c.png)
 
-### Landing Page 
-![Screenshot 2022-04-03 102152](https://user-images.githubusercontent.com/96105500/161412090-2032f976-50bf-442b-9062-4d93df4e0a93.png)
 ### Detail Page
 ![Screenshot 2022-04-03 102301](https://user-images.githubusercontent.com/96105500/161412110-60c84645-9965-415d-aa41-0a095067e642.png)
 
