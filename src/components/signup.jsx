@@ -130,7 +130,7 @@ const submit=(e)=>{
             <Logo>
               <PinterestIcon />
             </Logo>
-            <h1 id="heading">Welcome to Pinterst</h1>
+            <h1 id="heading">Welcome to Pinterest</h1>
             <p id="sub-heading">Find new ideas to try</p>
 
             <div id="myForm">
