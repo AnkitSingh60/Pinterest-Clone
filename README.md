@@ -32,7 +32,7 @@ We completed a clone of major functionalities of this website within a week.
 ![Screenshot 2022-04-03 102301](https://user-images.githubusercontent.com/96105500/161412110-60c84645-9965-415d-aa41-0a095067e642.png)
 
 ### Profile Page
-![Screenshot 2022-04-02 150657](https://user-images.githubusercontent.com/96105500/161412153-ad418e7d-e25f-44a2-b188-0ddfb9f236c5.png)
+![Screenshot 2022-04-02 150657](https://user-images.githubusercontent.com/93372584/162102936-3428b712-3672-4d44-a8d2-f36edb9a5870.png)
 
 ### Upload Pin Page
 ![Screenshot 2022-04-02 192117](https://user-images.githubusercontent.com/96105500/161412174-c77a554d-c374-4f27-9680-e4819be371af.png)
